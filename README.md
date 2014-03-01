@@ -1,5 +1,5 @@
-Private Docker-Registry
-=======================
+Docker-Registry
+===============
 
 Docker image based on dotcloud/registry (https://github.com/dotcloud/docker-registry)
 with a customized configuration file.
