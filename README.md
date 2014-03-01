@@ -11,8 +11,8 @@ Only "dev" mode is supported, other modes are disabled.
 Environment Variables
 ---------------------
 
-REGISTRY_PORT (default: 5000)
-GUNICORN_WORKERS (default: 4)
+ * REGISTRY_PORT (default: 5000)
+ * GUNICORN_WORKERS (default: 4)
 
 Volumes
 -------
